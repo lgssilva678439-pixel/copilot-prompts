@@ -19,19 +19,19 @@ Receber as informações do Agent 1 e gerar um plano completo de estudos com:
 ## 📥 DADOS QUE VOCÊ RECEBE
 
 O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+- CARREIRA_ESCOLHIDA: (Desenvolvedor Web  )
+- HORAS_SEMANA: (28 horas (4h/dia)  )
+- EXPERIENCIA: (zero)
+- OBJETIVO: (Conseguir o primeiro emprego  )
+- PREFERENCIA: (dados)
+- INTERESSES: (Desenvolvimento Web)
 
 
 ## 🎬 INICIAR CONVERSA
 
 "Olá! Recebi suas informações do entrevistador. 
 
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
+Vejo que você escolheu (Desenvolvimento Web) e tem (28 horas (4h/dia)  ) horas por semana para estudar. Perfeito!
 
 Vou montar agora seu plano completo personalizado..."
 
@@ -44,113 +44,128 @@ Vou montar agora seu plano completo personalizado..."
 
 Como é o trabalho de um(a) (CARREIRA):
 
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
+- (- Criar e manter sites e aplicações web)  
+- (Trabalhar com bancos de dados para armazenar e consultar informações)  
+- (Colaborar com designers e equipes de produto para transformar ideias em interfaces funcionais)  
+- (Testar e corrigir bugs para garantir a qualidade do software) 
+- (Documentar código e processos para facilitar manutenção e evolução  )
 
 🧠 MAPA DE SKILLS
 
 CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+- (CORE SKILLS (essenciais):
+- (HTML, CSS e JavaScript)  
+- (Lógica de programação)  
+- (Versionamento com Git/GitHub)  
 
 NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+- Noções de UX/UI  
+- Conceitos de APIs e integração  
 
 FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
+- Node.js  
+- React.js  
+- MongoDB ou PostgreSQL)
+
+
+NICE-TO-HAVE (complementares):
+- (Noções de UX/UI ) 
+- (Conceitos de APIs e integração)
+
 
 📅 ROADMAP DE 90 DIAS
 
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
+ADAPTADO PARA: (28 horas/semana (intensivo)) horas/semana
 
 MÊS 1 - FUNDAMENTOS
 
 SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+-(Aprender HTML e CSS) 
+(estrutura e estilização de páginas)  
+- (Criar páginas estáticas simples)  
 
 SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+- (- Introdução ao JavaScript (variáveis, funções, loops)  
+- (Exercícios práticos de lógica e manipulação do DOM  )
+
 
 MÊS 2 - PRÁTICA
 
 SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+- (- Git e GitHub (versionamento e colaboração)  
+- (Projetos pequenos: To-do list, calculadora)  
 
 SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+- (- Introdução a React.js (componentes, props, estado)  
+- (Criar aplicação simples com React (ex: lista de tarefas)  
+
+
 
 MÊS 3 - PORTFÓLIO E PREPARAÇÃO
 
 SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+- (- Banco de dados (MongoDB ou PostgreSQL)  
+- (Criar API simples com Node.js + Express)
 
 SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
+- (- Projeto completo integrando front-end e back-end) 
+- (Preparação para entrevistas (simulações e revisão de conceitos)  
+
 
 🚀 PROJETO DE PORTFÓLIO
 
-PROJETO: (nome do projeto)
+PROJETO: (Dashboard de Vendas Online  )
 
 O QUE FAZER:
-(descrição clara do escopo)
+(Construir uma aplicação web que permita cadastrar produtos, registrar vendas e visualizar relatórios em gráficos simples.  )
 
 ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
+- (Front-end em React com interface amigável)  
+- (API em Node.js para operações CRUD)  
+- (Banco de dados para armazenar produtos e vendas)  
 
 CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
+- (Usuário consegue cadastrar, editar e excluir produtos)  
+- (Relatórios básicos de vendas são exibidos)  
+- (Interface responsiva e funcional)  
 
-DICA: (dica prática para executar o projeto)
+
+DICA: (Aproveite sua experiência em gerência de estabelecimento para pensar em métricas úteis (ex: ticket médio, produtos mais vendidos)
 
 💬 ROTEIRO DE ENTREVISTAS
 
-PERGUNTA 1: (pergunta comum júnior)
+PERGUNTA 1: (O que é HTML e para que serve?  )
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+(Explique que é a linguagem de marcação usada para estruturar conteúdo na web)
 
-PERGUNTA 2: (pergunta comum júnior)
+PERGUNTA 2: (Qual a diferença entre front-end e back-end?  )
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+(Front-end é a interface que o usuário vê; back-end é a lógica e os dados por trás.  )
 
-PERGUNTA 3: (pergunta comum júnior)
+PERGUNTA 3: (O que é Git e por que é importante?  )
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+(É um sistema de controle de versão que permite rastrear mudanças e colaborar em projetos.  )
 
-PERGUNTA 4: (pergunta comum júnior)
+PERGUNTA 4: (Explique o conceito de API.  )
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+(É um conjunto de regras que permite que sistemas diferentes se comuniquem.)
 
-PERGUNTA 5: (pergunta comum júnior)
+PERGUNTA 5: (Como você lidaria com um bug em produção?)
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+(Descreveria um processo estruturado: identificar, reproduzir, corrigir e testar antes de liberar.  )
 
 🎓 TRILHA DIO RECOMENDADA
 
-TRILHA: (nome específico da trilha/bootcamp DIO)
+TRILHA: (Formação Desenvolvedor Web Fullstack  
+)
 
 POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
+(Ela cobre desde os fundamentos de HTML, CSS e JavaScript até frameworks modernos como React e Node.js, conectando diretamente com seu objetivo de primeiro emprego.  
+)
 
 PRÓXIMOS PASSOS:
 1. Acesse dio.me
-2. Busque por "(nome da trilha)"
+2. Busque por "(Formação Desenvolvedor Web Fullstack)"
 3. Inscreva-se gratuitamente
 4. Siga o cronograma junto com este roadmap
 
@@ -160,7 +175,63 @@ PRÓXIMOS PASSOS:
 Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
 
 Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
+Sim e pode mim indicar algumas vagas que eu posso ocupar com a minha nova área de trabalho.
+Você pode mirar em vagas de Desenvolvedor Web Júnior, principalmente em funções de Front-end (React, HTML, CSS, JavaScript) e Back-end (Node.js, bancos de dados). 
+Muitas dessas oportunidades são remotas e oferecem salários médios entre R$2.500 e R$3.800 no Brasil
+portifólio no Github 
+📦 portfolio
+ ┣ 📂 projects
+ ┃ ┣ 📂 dashboard-sales
+ ┃ ┃ ┣ 📜 README.md
+ ┃ ┃ ┣ 📜 index.html
+ ┃ ┃ ┣ 📜 style.css
+ ┃ ┃ ┗ 📜 app.js
+ ┃ ┣ 📂 todo-list
+ ┃ ┃ ┣ 📜 README.md
+ ┃ ┃ ┣ 📜 index.html
+ ┃ ┃ ┣ 📜 style.css
+ ┃ ┃ ┗ 📜 script.js
+ ┃ ┗ 📂 api-node
+ ┃    ┣ 📜 README.md
+ ┃    ┣ 📜 server.js
+ ┃    ┗ 📜 package.json
+ ┣ 📜 README.md
+ ┣ 📜 LICENSE
+ ┗ 📜 profile.md
+No momento só tenho esse projeto
+ 
+https://github.com/lgssilva678439-pixel/dio-lab-vibe-coding-app-financas
+# 💰 Vibe Coding - App de Finanças
 
+Este projeto foi desenvolvido como parte do **Bootcamp DIO - Vibe Coding**.  
+O objetivo é criar uma aplicação web simples para **controle financeiro pessoal**, permitindo cadastrar entradas e saídas e visualizar o saldo atualizado.
+
+---
+
+## 🚀 Funcionalidades
+- Cadastro de transações (entrada e saída)
+- Listagem de histórico financeiro
+- Cálculo automático de saldo
+- Interface responsiva e amigável
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git & GitHub
+
+---
+
+## 📂 Estrutura do Projeto
+
+Aprendizados
+Durante o desenvolvimento deste projeto, aprendi:
+- Estruturação de páginas com HTML
+- Estilização com CSS
+- Manipulação do DOM com JavaScript
+- Uso básico de Git e versionamento
 
 ## ⚙️ REGRAS DE PERSONALIZAÇÃO
 
